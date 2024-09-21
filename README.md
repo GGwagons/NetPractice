@@ -6,51 +6,6 @@
 
 Welcome to **Net Practice**, a system administration project aimed at helping you understand networking through a series of practical exercises. The project consists of configuring small-scale networks using a training interface available in your web browser.
 
-In this project, you will need to complete **10 levels** by solving networking problems, ensuring the network runs properly.
-
-## Prerequisites
-
-- Basic understanding of TCP/IP addressing
-- Web browser for running the interface
-- Git for version control
-
-## Getting Started
-
-1. **Download** the file attached to the project’s page.
-2. **Extract** the files into a directory of your choice.
-3. In the extracted folder, **run** `index.html` to launch the interface in your web browser.
-4. You will be presented with network diagrams and tasks. For each level, you must solve the issues described at the top of the interface.
-
-## How to Use the Training Interface
-
-- Input your **login** in the interface to practice, or leave it blank for the correction version.
-- Use the **Check again** button to verify if your configuration is correct.
-- Use the **Get my config** button to **export your configuration** once you complete a level.
-
-## Levels
-
-There are **10 levels** available, each providing a unique networking challenge. After completing each level:
-- **Download** your configuration.
-- **Submit** the configuration file into your GitHub repository.
-
-## Logs
-
-Logs available at the bottom of the interface will help you debug any issues with your network configuration.
-
-## Submission
-
-1. For each level, ensure you export the configuration using the **Get my config** button.
-2. Submit **one file per level** (10 files in total) in the root directory of your repository.
-3. Double-check the names of your files before submission.
-
-## Evaluation
-
-During the defense, you will be required to successfully solve **3 random levels** from the training platform. Note:
-- External tools are **not allowed** during evaluation.
-- A simple calculator such as `bc` is permitted.
-
----
-
 ## Theory: What You Need to Know to Complete the Project
 
 ### 1. Understanding TCP/IP Networking
